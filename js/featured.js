@@ -3,7 +3,7 @@ const SpeakersOne = [
     name: 'Prof. Mai Suan Li',
     position: 'Polish Academy of Science',
     description: 'poland',
-    featured_image: 'p.png',
+    featured_image: 'li.jpg',
   },
   {
     name: 'Prof. Vo Van Hoang',
@@ -15,7 +15,13 @@ const SpeakersOne = [
     name: 'Prof. Chong Tet Vui',
     position: 'INTI International University',
     description: 'Malaysia',
-    featured_image: 'p.png',
+    featured_image: 'chongtetvui.jpg',
+  },
+  {
+    name: 'Prof. Vladimir Bubanja',
+    position: 'Measurement Standards Laboratory of New Zealand',
+    description: 'New Zealand',
+    featured_image: 'Vladi.jpg',
   },
 
 ];
