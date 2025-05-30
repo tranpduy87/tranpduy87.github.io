@@ -17,24 +17,6 @@ const SpeakersOne = [
     description: 'Malaysia',
     featured_image: 'p.png',
   },
-  {
-    name: 'Prof. Khizbullin Robert Nakibovich',
-    position: 'Kazan State Power Engineering University',
-    description: 'Russia',
-    featured_image: 'p.png',
-  },
-  {
-    name: 'Prof. Adam Liwo',
-    position: 'University of Gdansk',
-    description: 'Poland',
-    featured_image: 'p.png',
-  },
-  {
-    name: 'Prof. Marek Salamak',
-    position: 'Silesian University of Technology',
-    description: 'Poland',
-    featured_image: 'p.png',
-  },
 
 ];
 const speakersOneContainer = document.getElementById('speakers-1');
@@ -59,41 +41,24 @@ speakersOneContainer.innerHTML = allSpeakersOne;
 // For second set of speakers
 
 const SpeakersTwo = [
+
   {
-    name: 'Prof. Mai Suan Li',
-    position: 'Polish Academy of Science',
-    description: 'poland',
-    featured_image: 'p.png',
+    name2: 'Prof. Khizbullin Robert Nakibovich',
+    position2: 'Kazan State Power Engineering University',
+    description2: 'Russia',
+    featured_image2: 'p.png',
   },
   {
-    name: 'Prof. Vo Van Hoang',
-    position: 'Hochiminh City University of Technology',
-    description: 'Vietnam',
-    featured_image: 'p.png',
+    name2: 'Prof. Adam Liwo',
+    position2: 'University of Gdansk',
+    description2: 'Poland',
+    featured_image2: 'p.png',
   },
   {
-    name: 'Prof. Chong Tet Vui',
-    position: 'INTI International University',
-    description: 'Malaysia',
-    featured_image: 'p.png',
-  },
-  {
-    name: 'Prof. Khizbullin Robert Nakibovich',
-    position: 'Kazan State Power Engineering University',
-    description: 'Russia',
-    featured_image: 'p.png',
-  },
-  {
-    name: 'Prof. Adam Liwo',
-    position: 'University of Gdansk',
-    description: 'Poland',
-    featured_image: 'p.png',
-  },
-  {
-    name: 'Prof. Marek Salamak',
-    position: 'Silesian University of Technology',
-    description: 'Poland',
-    featured_image: 'p.png',
+    name2: 'Prof. Marek Salamak',
+    position2: 'Silesian University of Technology',
+    description2: 'Poland',
+    featured_image2: 'p.png',
   },
 ];
 const speakersTwoContainer = document.getElementById('speakers-2');
