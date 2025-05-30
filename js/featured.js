@@ -1,20 +1,38 @@
 const SpeakersOne = [
   {
-    name: 'TBD',
-    position: 'TBD',
-    description: 'TBD',
+    name: 'Prof. Mai Suan Li',
+    position: 'Polish Academy of Science',
+    description: 'poland',
     featured_image: 'p.png',
   },
   {
-    name: 'TBD',
-    position: 'TBD',
-    description: 'TBD',
+    name: 'Prof. Vo Van Hoang',
+    position: 'Hochiminh City University of Technology',
+    description: 'Vietnam',
     featured_image: 'p.png',
   },
   {
-    name: 'TBD',
-    position: 'TBD',
-    description: 'TBD',
+    name: 'Prof. Chong Tet Vui',
+    position: 'INTI International University',
+    description: 'Malaysia',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Khizbullin Robert Nakibovich',
+    position: 'Kazan State Power Engineering University',
+    description: 'Russia',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Adam Liwo',
+    position: 'University of Gdansk',
+    description: 'Poland',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Marek Salamak',
+    position: 'Silesian University of Technology',
+    description: 'Poland',
     featured_image: 'p.png',
   },
 
