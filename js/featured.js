@@ -60,22 +60,40 @@ speakersOneContainer.innerHTML = allSpeakersOne;
 
 const SpeakersTwo = [
   {
-    name2: 'TBD',
-    position2: 'TBD',
-    description2: 'TBD',
-    featured_image2: 'p.png',
+    name: 'Prof. Mai Suan Li',
+    position: 'Polish Academy of Science',
+    description: 'poland',
+    featured_image: 'p.png',
   },
   {
-    name2: 'TBD',
-    position2: 'TBD',
-    description2: 'TBD',
-    featured_image2: 'p.png',
+    name: 'Prof. Vo Van Hoang',
+    position: 'Hochiminh City University of Technology',
+    description: 'Vietnam',
+    featured_image: 'p.png',
   },
   {
-    name2: 'TBD',
-    position2: 'TBD',
-    description2: 'TBD',
-    featured_image2: 'p.png',
+    name: 'Prof. Chong Tet Vui',
+    position: 'INTI International University',
+    description: 'Malaysia',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Khizbullin Robert Nakibovich',
+    position: 'Kazan State Power Engineering University',
+    description: 'Russia',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Adam Liwo',
+    position: 'University of Gdansk',
+    description: 'Poland',
+    featured_image: 'p.png',
+  },
+  {
+    name: 'Prof. Marek Salamak',
+    position: 'Silesian University of Technology',
+    description: 'Poland',
+    featured_image: 'p.png',
   },
 ];
 const speakersTwoContainer = document.getElementById('speakers-2');
