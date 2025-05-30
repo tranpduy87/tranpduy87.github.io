@@ -66,6 +66,7 @@ const SpeakersTwo = [
     description2: 'Poland',
     featured_image2: 'p.png',
   },
+
 ];
 const speakersTwoContainer = document.getElementById('speakers-2');
 const allSpeakersTwo = SpeakersTwo
