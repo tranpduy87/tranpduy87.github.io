@@ -2,7 +2,7 @@ const SpeakersOne = [
   {
     name: 'Prof. Mai Suan Li',
     position: 'Polish Academy of Science',
-    description: 'poland',
+    description: 'Poland',
     featured_image: 'li.jpg',
   },
   {
