@@ -209,9 +209,18 @@ body.overflow-hidden {
   z-index: -1;
 }
 
-.speaker-img .sp-img {
+/*.speaker-img .sp-img {
   width: 100%;
   object-position: 10px 10px;
+}*/
+
+/* Speaker image style for uniform size in both columns */
+.speaker-img .sp-img {
+  width: 100%;           /* Ensures image fills the container */
+  max-width: 120px;      /* Set a max width for all speaker images */
+  height: 120px;         /* Set a fixed height */
+  object-fit: cover;     /* Crop to fit the box */
+  border-radius: 50%;    /* Optional: makes images circular */
 }
 
 .speaker-info {
