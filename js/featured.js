@@ -52,7 +52,7 @@ const SpeakersTwo = [
     name2: 'Prof. Khizbullin Robert Nakibovich',
     position2: 'Kazan State Power Engineering University',
     description2: 'Russia',
-    featured_image2: 'p.png',
+    featured_image2: 'KhizbullinNakibovich.jpg',
   },
   {
     name2: 'Prof. Adam Liwo',
