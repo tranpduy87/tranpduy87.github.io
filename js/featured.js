@@ -9,7 +9,7 @@ const SpeakersOne = [
     name: 'Prof. Vo Van Hoang',
     position: 'Hochiminh City University of Technology',
     description: 'Vietnam',
-    featured_image: 'p.png',
+    featured_image: 'vvhoang.jpg',
   },
   {
     name: 'Prof. Chong Tet Vui',
