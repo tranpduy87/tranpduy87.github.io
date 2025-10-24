@@ -23,6 +23,12 @@ const SpeakersOne = [
     description: 'New Zealand',
     featured_image: 'Vladi.jpg',
   },
+  {
+    name: 'Prof. Le Van Hoang',
+    position: 'Ho Chi Minh City University of Education',
+    description: 'Vietnam',
+    featured_image: 'lvhoang.jpg',
+  },
 
 ];
 const speakersOneContainer = document.getElementById('speakers-1');
@@ -65,6 +71,12 @@ const SpeakersTwo = [
     position2: 'Silesian University of Technology',
     description2: 'Poland',
     featured_image2: 'p.png',
+  },
+  {
+    name2: 'Prof. Thanh N. Truong',
+    position2: 'The University of Utah',
+    description2: 'The US',
+    featured_image2: 'tnthanh.jpg',
   },
 
 ];
